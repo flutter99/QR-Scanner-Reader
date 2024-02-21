@@ -1,9 +1,9 @@
 # QR-Scanner-Reader
-this is the file for QR Scanner and Reader Mobile App
+this is the file for QR Code Scanner & Reader Mobile App
 
 ## Privacy Policy
 
-[Your Company/Your Name] ("we" or "us") respects your privacy. This Privacy Policy explains what information we collect when you use our mobile application, "QR Scanner & Reader" (the "App"), and how we use that information.
+[Your Company/Your Name] ("we" or "us") respects your privacy. This Privacy Policy explains what information we collect when you use our mobile application, "QR Code Scanner & Reader" (the "App"), and how we use that information.
 
 ## Information We Collect
 
