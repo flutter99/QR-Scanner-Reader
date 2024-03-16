@@ -1,5 +1,6 @@
 # QR-Scanner-Reader
-this is the file for QR Code Scanner & Reader Mobile App
+
+Effective Date: 14/02/2024
 
 ## Privacy Policy
 
@@ -38,6 +39,4 @@ this is the file for QR Code Scanner & Reader Mobile App
 
 ## Contact Us
 
-If you have any questions about our Privacy Policy, please contact us at: bilalahmad72.official@gmail.com
-
-Effective Date: 14/02/2024
+If you have any questions about our Privacy Policy, please contact us at: bilalferoze98@gmail.com
