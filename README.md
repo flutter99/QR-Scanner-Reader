@@ -38,4 +38,4 @@ QR Code Scanner & Reader may revise these Terms and Conditions for its App at an
 These Terms and Conditions are governed by and construed in accordance with the laws of Pakistan, and you irrevocably submit to the exclusive jurisdiction of the courts in that State or location.
 
 # Contact Us
-If you have any questions about these Terms and Conditions, please contact us at bilalahmad72.official@gmail.com.
+If you have any questions about these Terms and Conditions, please contact us at bilalferoze98@gmail.com
